@@ -4,7 +4,7 @@
 **_A TechPet é um projeto de estudo, e foi desenvolvido para quem tem uma creche pet.
 As funcionalidades do sistema são voltadas para a administração da creche.
 Com ele você pode cadastrar clientes e seus pets, também pode hospedar um pet. O sistema também conta com um sistema de login para segurança de dados. 
-Todo sistema é desenvolvido em java e integrado com o banco de dados MySQL com persistência de dados (JPA)._**
+Todo sistema é desenvolvido em Java com Hibernate._**
 
 
 # Janelas/Funcionalidades e Códigos
